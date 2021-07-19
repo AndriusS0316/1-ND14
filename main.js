@@ -1,2 +1,2 @@
-// dvylikta uzduotis
+// keturiolikta uzduotis
 
